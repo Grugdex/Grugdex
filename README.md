@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Grugdex
-- 👀 I’m interested in php
-- 🌱 I’m currently learning php
+- 👋 Hi, I’m @Max-Lindau
+- 👀 I’m interested in  php,c#,css,html,js
+- 🌱 I’m currently learning php,c#,css,html,js
